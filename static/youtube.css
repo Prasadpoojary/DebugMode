@@ -363,7 +363,7 @@ table tr td span{
 .instruction
 {
     position: absolute;
-    top:20%;
+    top:10%;
     left:50%;
     width:80vw;
     max-width: 300px;
@@ -375,4 +375,16 @@ table tr td span{
     border-radius: 5px;
 }
 
+.settings p button
+{
+    background:white;
+    border:none;
+    outline:none;
+    font-size: 12px;
+    color:#920327;
+    border-radius: 15px;
+    padding:4px 10px;
+    box-shadow: 0px 0px 12px 1px #d3d1d1;
+    cursor: pointer;
+}
 }
